@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">CitiesApp</string>
+    <string name="register_city">Cadastro de Cidades!</string>
+    <string name="name">Nome :</string>
+    <string name="name_city">Nome da cidade</string>
+    <string name="populacao">Populacao :</string>
+    <string name="qtd">Quantidade</string>
+    <string name="included_cidade">Incluir cidade</string>
 </resources>

@@ -1,7 +1,7 @@
 package com.gdsdevtec.citiesapp.model
 
 object DataStore {
-    private val cities: MutableList<City> = arrayListOf()
+    val cities: MutableList<City> = arrayListOf()
     init {
         cities.add(City("Sao paulo", 200))
         cities.add(City("Rio de janeiro", 300))
